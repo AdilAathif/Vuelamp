@@ -3,6 +3,7 @@
     padding: 0%;
     font-family: 'poppins', 'sans-serif';
     box-sizing: border-box;
+    overflow-x: hidden;
 }
 .hero{
     background: #1d2026;
